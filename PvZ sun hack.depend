@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618467686 source:d:\tools\c++\pvz sun hack\main.cpp
+	<iostream>
+	<windows.h>
+	<tchar.h>
+	<tlhelp32.h>
+	<stdlib.h>
+	<vector>
+
